@@ -1,3 +1,3 @@
 # demo
 
-I have implemented a new feature!
+I have taken out feature!
